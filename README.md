@@ -20,4 +20,19 @@
   - The first step was to import Standard Scaler from the scikit-learn library.
   - We then fit and transform the data by passing in the desired columns of the dataset using Standard Scaler.
 
+## Building classifiers
+- After data analysis, several machine learning models are developed and compared for their performance in predicting the potability of water. 
+- The models include Logistic Regression,Decision trees, Naive Bayes,k-Nearest Neigbors ,Random Forest, and Artificial Neural Nets. 
+- The models are evaluated using various metrics such as accuracy, precision, recall, and F1 score
+
+<div style="display:flex;flex-direction:row">
+    <img src="https://github.com/SatyamedhasP/Water-Potability/blob/main/Model%20comparison.png" width="50%" />
+    <img src="https://github.com/SatyamedhasP/Water-Potability/blob/main/Confusion%20matrix.png" width="40%" />  
+</div>
+
+    - The model comparison graph provides the performance of all classifiers based on the scoring metrics.
+    - The best performace is provided by the Random Forest algorithm with an accuracy of 70% after hyperparameter tuning and k-fold cross validation.
+    - The confusion matrix provides the performance of the Random Forest algorithm on the testing set.
+    
+
 
