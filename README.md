@@ -1,4 +1,4 @@
-# Water Potability
+# Water Potability [Check your water quality here](https://satyamedhasp-water-potability-app-imzu8c.streamlit.app/)
 
 <p align="center">
   <img src="https://github.com/SatyamedhasP/Water-Potability/blob/main/Water_quality_image.jpg" width="50%">
