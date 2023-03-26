@@ -34,5 +34,13 @@
     - The best performace is provided by the Random Forest algorithm with an accuracy of 70% after hyperparameter tuning and k-fold cross validation.
     - The confusion matrix provides the performance of the Random Forest algorithm on the testing set.
     
+## Deployment
+- The project also includes a user interface built using Streamlit, allowing users to interact with the model and predict the potability of their water sample by entering the various parameters. 
+- Finally, the project is deployed on Streamlit share to make it accessible to a wider audience.
+- Try it out [here](https://satyamedhasp-water-potability-app-imzu8c.streamlit.app/)
+
+## Summary
+Overall, this project demonstrates the application of machine learning techniques in solving real-world problems and provides a useful tool for individuals and organizations concerned with water quality.
+    
 
 
