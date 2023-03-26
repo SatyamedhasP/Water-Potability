@@ -1,6 +1,11 @@
 # Water Potability 
 
-Check your water quality [here](https://satyamedhasp-water-potability-app-imzu8c.streamlit.app/)
+Check your water quality [here](https://satyamedhasp-water-potability-app-imzu8c.streamlit.app/).
+
+Libraries used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tensorflow, Keras
+
+Project Notebook link:[Water Quality]() 
+
 
 <p align="center">
   <img src="https://github.com/SatyamedhasP/Water-Potability/blob/main/Water_quality_image.jpg" width="50%">
