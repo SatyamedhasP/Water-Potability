@@ -1,15 +1,14 @@
 # Water Potability 
 
+<p align="center">
+  <img src="https://github.com/SatyamedhasP/Water-Potability/blob/main/Water_quality_image.jpg" width="50%">
+</p>
+
 Check your water quality [here](https://satyamedhasp-water-potability-app-imzu8c.streamlit.app/).
 
 Libraries used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tensorflow, Keras
 
-Project Notebook link:[Water Quality]() 
-
-
-<p align="center">
-  <img src="https://github.com/SatyamedhasP/Water-Potability/blob/main/Water_quality_image.jpg" width="50%">
-</p>
+Project Notebook link:[Water Quality](https://github.com/SatyamedhasP/Water-Potability/blob/main/Water_Quality(1).ipynb)
 
 ## Overview
 - This project aims to predict the potability of water based on various physical, chemical, and biological factors. 
